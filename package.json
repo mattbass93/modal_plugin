@@ -1,5 +1,5 @@
 {
-  "name": "@ton-github/modal-plugin",
+  "name": "@mattbass93/modal_plugin",
   "version": "1.0.0",
   "description": "A simple React modal component",
   "main": "dist/index.js",
@@ -7,9 +7,9 @@
   "types": "dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ton-github/modal-plugin.git"
+    "url": "https://github.com/mattbass93/modal_plugin.git"
   },
-  "author": "Ton Nom",
+  "author": "Matthis Couder",
   "license": "MIT",
   "files": [
     "dist",
