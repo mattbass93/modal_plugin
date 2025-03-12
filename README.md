@@ -37,7 +37,13 @@ export default App;
 | `onClose`  | `Function` | Function triggered when modal closes      | ✅ Yes   |
 | `children` | `ReactNode` | Content inside the modal                 | ✅ Yes   |
 
+## 🔧 Node.js Version
+
+This package requires **Node.js 16 or later** to function properly.
+
 ## 📝 License
 
 This project is licensed under the **MIT License**.
+
+
 
