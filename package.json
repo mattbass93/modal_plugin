@@ -1,6 +1,6 @@
 {
   "name": "@mattbass93/modal_plugin",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "A simple React modal component",
   "main": "dist/index.js",
   "module": "dist/index.js",
